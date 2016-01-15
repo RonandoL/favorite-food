@@ -1,0 +1,9 @@
+img.thumb {
+  width: 100%;
+  max-height: 350px;
+}
+
+.thumbnail {
+  width: 100%;
+  display: none;
+}
